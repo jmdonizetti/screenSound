@@ -1,0 +1,14 @@
+C:\estudos-programacao\Alura-C#\projeto\projeto\bin\Debug\net8.0\projeto.exe
+C:\estudos-programacao\Alura-C#\projeto\projeto\bin\Debug\net8.0\projeto.deps.json
+C:\estudos-programacao\Alura-C#\projeto\projeto\bin\Debug\net8.0\projeto.runtimeconfig.json
+C:\estudos-programacao\Alura-C#\projeto\projeto\bin\Debug\net8.0\projeto.dll
+C:\estudos-programacao\Alura-C#\projeto\projeto\bin\Debug\net8.0\projeto.pdb
+C:\estudos-programacao\Alura-C#\projeto\projeto\obj\Debug\net8.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos-programacao\Alura-C#\projeto\projeto\obj\Debug\net8.0\projeto.AssemblyInfoInputs.cache
+C:\estudos-programacao\Alura-C#\projeto\projeto\obj\Debug\net8.0\projeto.AssemblyInfo.cs
+C:\estudos-programacao\Alura-C#\projeto\projeto\obj\Debug\net8.0\projeto.csproj.CoreCompileInputs.cache
+C:\estudos-programacao\Alura-C#\projeto\projeto\obj\Debug\net8.0\projeto.dll
+C:\estudos-programacao\Alura-C#\projeto\projeto\obj\Debug\net8.0\refint\projeto.dll
+C:\estudos-programacao\Alura-C#\projeto\projeto\obj\Debug\net8.0\projeto.pdb
+C:\estudos-programacao\Alura-C#\projeto\projeto\obj\Debug\net8.0\projeto.genruntimeconfig.cache
+C:\estudos-programacao\Alura-C#\projeto\projeto\obj\Debug\net8.0\ref\projeto.dll
